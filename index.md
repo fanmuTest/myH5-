@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 嘻嘻加油
 
 You can use the [editor on GitHub](https://github.com/fanmuTest/myH5-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
